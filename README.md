@@ -47,10 +47,9 @@ Built for integration with **CCTV surveillance systems**, this solution uses a *
 
 ---
 ## 👤 Author
-Paidakula Srikanth
-
 Chakilam Samhitha
 
+Paidakula Srikanth
 
 
 ## 🚀 Getting Started
