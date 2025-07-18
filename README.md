@@ -59,6 +59,7 @@ Paidakula Srikanth
 ```bash
 git clone https://github.com/srikanthpaidakula/SUSPICIOUS-OBJECT-DETECTION-.git
 cd SUSPICIOUS-OBJECT-DETECTION-
+python main.py
 python detect.py
 
 
