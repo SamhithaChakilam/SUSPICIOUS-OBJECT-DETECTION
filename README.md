@@ -1,14 +1,7 @@
 
 # 🚨 SUSPICIOUS-OBJECT-DETECTION- 🚨
 
-*Detecting Danger, Securing Tomorrow Instantly*
-
-![GitHub last commit](https://img.shields.io/github/last-commit/srikanthpaidakula/SUSPICIOUS-OBJECT-DETECTION-?color=blue)
-![Python](https://img.shields.io/badge/python-100%25-blue)
-![Languages](https://img.shields.io/github/languages/count/srikanthpaidakula/SUSPICIOUS-OBJECT-DETECTION-?color=gray)
-
----
-
+*Detecting Danger, Securing Tomorrow Instantly
 ### ⚙️ Built with the tools and technologies:
 
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
@@ -48,18 +41,5 @@ Built for integration with **CCTV surveillance systems**, this solution uses a *
 ---
 ## 👤 Author
 Chakilam Samhitha
-
-
-
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/srikanthpaidakula/SUSPICIOUS-OBJECT-DETECTION-.git
-cd SUSPICIOUS-OBJECT-DETECTION-
-python main.py
-python detect.py
 
 
