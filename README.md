@@ -49,7 +49,7 @@ Built for integration with **CCTV surveillance systems**, this solution uses a *
 ## 👤 Author
 Chakilam Samhitha
 
-Paidakula Srikanth
+
 
 
 ## 🚀 Getting Started
