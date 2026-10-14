@@ -6,7 +6,7 @@ def main():
     ip_webcam_url = input("Enter the IP webcam URL (e.g., http://<IP_ADDRESS>:<PORT>/video): ")
 
     # Path to the YOLO model
-    model_path = r"C:\Users\SRIKANTH\Downloads\runs-20240716T072728Z-001\runs\detect\train3\weights\last.pt"  # Updated to use the uploaded file
+    model_path = r"C:\Users\SAMHITHA\Downloads\runs-20240716T072728Z-001\runs\detect\train3\weights\last.pt"  # Updated to use the uploaded file
 
     # Load YOLO model
     print("Loading YOLO model...")
